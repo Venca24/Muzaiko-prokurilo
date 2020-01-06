@@ -1,5 +1,7 @@
 # Muzaiko-prokurilo
 
+**Fine de 2019 kaj komence de 2020 Muzaiko ŝanĝis sian elsendmanieron. Tial la geografia blokado ne plu okazas kaj tiu ĉi servo ĉesis funkcii. Aŭskultu Muzaikon ĉe http://muzaiko.info/ **
+
 Muzaiko-prokurilo estas alternativa maniero por aŭskulti elsendon de Muzaiko ankaŭ en landoj, kie la origina elsendo ne estas atingebla pro politiko de Radionomy, la servo per kiu Muzaiko elsendas.
 
 Tiu ĉi servo estas persona servo, al kiu estas permesita aliro de publiko. Ĝi estas ofertata sen ajna garantio de funkcio. Ĝi ankaŭ povas esti iam ajn partatempe aŭ porĉiame malŝaltita, sendepende de tio, ĉu pro teĥnikaj, leĝaĵ, personaj aŭ aliaj kialoj.
